@@ -1,0 +1,139 @@
+==================================================
+🚀 Starting 24-Hour Quantum Benchmark Suite
+Start Time: Mon Aug 10 16:19:28 PDT 2026
+Total Runs: 6 (Every 4 Hours)
+./caffeinate.sh: line 14: SHOTS: command not found
+Target Shots: 
+==================================================
+
+--------------------------------------------------
+▶ Execution 1 of 6 | Mon Aug 10 16:19:28 PDT 2026
+--------------------------------------------------
+./caffeinate.sh: line 27: SHOTS: command not found
+usage: master_single.py [-h] [--shots SHOTS]
+master_single.py: error: argument --shots: expected one argument
+Connecting to IBM Quantum Service...
+✅ Finished Run 1 in 6 seconds.
+💤 Sleeping for 14394 seconds to maintain schedule...
+==================================================
+🚀 Starting 24-Hour Quantum Benchmark Suite
+Start Time: Mon Aug 10 16:21:10 PDT 2026
+Total Runs: 6 (Every 4 Hours)
+Target Shots: 8192
+==================================================
+
+--------------------------------------------------
+▶ Execution 1 of 6 | Mon Aug 10 16:21:10 PDT 2026
+--------------------------------------------------
+Connecting to IBM Quantum Service...
+
+🚀 Preparing Sub-Graph Diagnostic Suite for 'ibm_marrakesh'...
+📁 Total compiled circuits in suite: 28
+⚡ Transpiling circuits to ISA (mapping to physical Q0, Q1, Q2)...
+
+📤 Submitting Job (28 circuits at 8192 shots)...
+    Job ID: d9t5prvtfhrs73dtha1g
+    [16:21:20] Job Status: QUEUED
+    [16:21:30] Job Status: RUNNING
+    [16:22:32] Job Status: DONE
+
+✅ Successfully written 8192-shot results to 'master_quantum_experiments_ibm_marrakesh_subgraph.csv'!
+✅ Finished Run 1 in 83 seconds.
+💤 Sleeping for 14317 seconds to maintain schedule...
+
+--------------------------------------------------
+▶ Execution 2 of 6 | Mon Aug 10 20:21:10 PDT 2026
+--------------------------------------------------
+Connecting to IBM Quantum Service...
+
+🚀 Preparing Sub-Graph Diagnostic Suite for 'ibm_marrakesh'...
+📁 Total compiled circuits in suite: 28
+⚡ Transpiling circuits to ISA (mapping to physical Q0, Q1, Q2)...
+
+📤 Submitting Job (28 circuits at 8192 shots)...
+    Job ID: d9t9acfpemts73cujn20
+    [20:21:22] Job Status: QUEUED
+    [22:36:21] Job Status: RUNNING
+    [22:37:43] Job Status: DONE
+
+✅ Successfully written 8192-shot results to 'master_quantum_experiments_ibm_marrakesh_subgraph.csv'!
+✅ Finished Run 2 in 8194 seconds.
+💤 Sleeping for 6206 seconds to maintain schedule...
+
+--------------------------------------------------
+▶ Execution 3 of 6 | Tue Aug 11 00:21:10 PDT 2026
+--------------------------------------------------
+Connecting to IBM Quantum Service...
+
+🚀 Preparing Sub-Graph Diagnostic Suite for 'ibm_marrakesh'...
+📁 Total compiled circuits in suite: 28
+⚡ Transpiling circuits to ISA (mapping to physical Q0, Q1, Q2)...
+
+📤 Submitting Job (28 circuits at 8192 shots)...
+    Job ID: d9tcqs7pemts73cuo980
+    [00:21:20] Job Status: QUEUED
+    [00:21:30] Job Status: RUNNING
+    [00:22:42] Job Status: DONE
+
+✅ Successfully written 8192-shot results to 'master_quantum_experiments_ibm_marrakesh_subgraph.csv'!
+✅ Finished Run 3 in 93 seconds.
+💤 Sleeping for 14307 seconds to maintain schedule...
+
+--------------------------------------------------
+▶ Execution 4 of 6 | Tue Aug 11 04:21:10 PDT 2026
+--------------------------------------------------
+Connecting to IBM Quantum Service...
+
+🚀 Preparing Sub-Graph Diagnostic Suite for 'ibm_marrakesh'...
+📁 Total compiled circuits in suite: 28
+⚡ Transpiling circuits to ISA (mapping to physical Q0, Q1, Q2)...
+
+📤 Submitting Job (28 circuits at 8192 shots)...
+    Job ID: d9tgbbvpemts73cusv7g
+    [04:21:20] Job Status: QUEUED
+    [04:21:30] Job Status: RUNNING
+    [04:22:32] Job Status: DONE
+
+✅ Successfully written 8192-shot results to 'master_quantum_experiments_ibm_marrakesh_subgraph.csv'!
+✅ Finished Run 4 in 83 seconds.
+💤 Sleeping for 14317 seconds to maintain schedule...
+
+--------------------------------------------------
+▶ Execution 5 of 6 | Tue Aug 11 08:21:10 PDT 2026
+--------------------------------------------------
+Connecting to IBM Quantum Service...
+
+🚀 Preparing Sub-Graph Diagnostic Suite for 'ibm_marrakesh'...
+📁 Total compiled circuits in suite: 28
+⚡ Transpiling circuits to ISA (mapping to physical Q0, Q1, Q2)...
+
+📤 Submitting Job (28 circuits at 8192 shots)...
+    Job ID: d9tjrrpdsedc73aj2d4g
+    [08:21:19] Job Status: QUEUED
+    [08:21:30] Job Status: RUNNING
+    [08:22:42] Job Status: DONE
+
+✅ Successfully written 8192-shot results to 'master_quantum_experiments_ibm_marrakesh_subgraph.csv'!
+✅ Finished Run 5 in 93 seconds.
+💤 Sleeping for 14307 seconds to maintain schedule...
+
+--------------------------------------------------
+▶ Execution 6 of 6 | Tue Aug 11 12:21:10 PDT 2026
+--------------------------------------------------
+Connecting to IBM Quantum Service...
+
+🚀 Preparing Sub-Graph Diagnostic Suite for 'ibm_marrakesh'...
+📁 Total compiled circuits in suite: 28
+⚡ Transpiling circuits to ISA (mapping to physical Q0, Q1, Q2)...
+
+📤 Submitting Job (28 circuits at 8192 shots)...
+    Job ID: d9tnccr43mgs73ervpsg
+    [12:21:24] Job Status: QUEUED
+    [12:21:34] Job Status: RUNNING
+    [12:22:46] Job Status: DONE
+
+✅ Successfully written 8192-shot results to 'master_quantum_experiments_ibm_marrakesh_subgraph.csv'!
+
+==================================================
+🎉 All 6 periodic runs completed at Tue Aug 11 12:22:47 PDT 2026
+==================================================
