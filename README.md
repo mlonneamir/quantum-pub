@@ -1,6 +1,6 @@
 # An Analysis of Circuit Fidelity and Error Accumulation in IBM Quantum Computers
 
-### Paper and supporting code for an analysis of circuit fidelity and error accumulation in IBM Quantum Computers.
+### Paper and supporting code for: "An Analysis of Circuit Fidelity and Error Accumulation in IBM Quantum Computers"
 ---
 
 ##  Paper Abstract
@@ -9,6 +9,7 @@ Quantum computers in the Noisy Intermediate-Scale Quantum (NISQ) era are heavily
 
 ##  Repo Layout
 
+* paper.pdf: paper
 * src: code
 * data: collected data
 * images: graphs of data
