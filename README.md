@@ -1,7 +1,5 @@
 # An Analysis of Circuit Fidelity and Error Accumulation in IBM Quantum Computers
 
-[![License: MIT](https://shields.io)](https://opensource.org)
-
 ### Paper and supporting code for an analysis of circuit fidelity and error accumulation in IBM Quantum Computers.
 ---
 
